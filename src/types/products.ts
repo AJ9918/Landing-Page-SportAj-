@@ -1,8 +1,8 @@
-export interface  {
+export interface  Product {
     id: number;
     title: string;
     gender: string;
-    image: string;
+    imagen: string;
     description : string ;
     rating : number;
     duration : number;
